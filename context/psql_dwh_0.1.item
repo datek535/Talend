@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Bv-40DbxEeepAsIqo7doHQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Bv-40TbxEeepAsIqo7doHQ" comment="" name="psql_dwh_Port" prompt="psql_dwh_Port?" promptNeeded="false" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_Bv-40jbxEeepAsIqo7doHQ" comment="" name="psql_dwh_Database" prompt="psql_dwh_Database?" promptNeeded="false" type="id_String" value="dwh01"/>
+  <contextParameter xmi:id="_Bv-40zbxEeepAsIqo7doHQ" comment="" name="psql_dwh_Server" prompt="psql_dwh_Server?" promptNeeded="false" type="id_String" value="10.12.61.20"/>
+  <contextParameter xmi:id="_Bv-41DbxEeepAsIqo7doHQ" comment="" name="psql_dwh_Schema" prompt="psql_dwh_Schema?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Bv-41TbxEeepAsIqo7doHQ" comment="" name="psql_dwh_Password" prompt="psql_dwh_Password?" promptNeeded="false" type="id_Password" value="NBD0OkpfEJFgw7ZYfuRh+Q=="/>
+  <contextParameter xmi:id="_Bv-41jbxEeepAsIqo7doHQ" comment="" name="psql_dwh_Login" prompt="psql_dwh_Login?" promptNeeded="false" type="id_String" value="etl"/>
+</talendfile:ContextType>

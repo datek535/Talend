@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_gcUdwB6cEee6MP5H0gPmJA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_gcUdwR6cEee6MP5H0gPmJA" comment="" name="psql_etl_config_Password" prompt="psql_etl_config_Password?" promptNeeded="false" type="id_Password" value="NBD0OkpfEJFgw7ZYfuRh+Q=="/>
+  <contextParameter xmi:id="_gcUdwh6cEee6MP5H0gPmJA" comment="" name="psql_etl_config_Port" prompt="psql_etl_config_Port?" promptNeeded="false" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_gcUdwx6cEee6MP5H0gPmJA" comment="" name="psql_etl_config_Login" prompt="psql_etl_config_Login?" promptNeeded="false" type="id_String" value="etl"/>
+  <contextParameter xmi:id="_gcUdxB6cEee6MP5H0gPmJA" comment="" name="psql_etl_config_Server" prompt="psql_etl_config_Server?" promptNeeded="false" type="id_String" value="10.12.61.20"/>
+  <contextParameter xmi:id="_gcUdxR6cEee6MP5H0gPmJA" comment="" name="psql_etl_config_Schema" prompt="psql_etl_config_Schema?" promptNeeded="false" type="id_String" value="etl_config"/>
+  <contextParameter xmi:id="_gcUdxh6cEee6MP5H0gPmJA" comment="" name="psql_etl_config_Database" prompt="psql_etl_config_Database?" promptNeeded="false" type="id_String" value="dwh01"/>
+</talendfile:ContextType>

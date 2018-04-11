@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_N40KEJkhEeeRA4GQoiDoOQ" name="AGG" id="_N4ahcJkhEeeRA4GQoiDoOQ" label="AGG" dataPackage="_vY5OgJkhEeeRA4GQoiDoOQ" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://10.12.61.20:5432/dwh01" dbVersionString="V9_X" Port="5432" Username="etl" Password="NBD0OkpfEJFgw7ZYfuRh+Q==" ServerName="10.12.61.20" DatasourceName="" FileFieldName="" SID="dwh01" SqlSynthax="SQL Syntax" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="agg01">
+    <taggedValue xmi:id="__9u6YN2TEea2P5c0wERQug" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="__-JKEN2TEea2P5c0wERQug" tag="package filter" value=""/>
+    <taggedValue xmi:id="__-S7EN2TEea2P5c0wERQug" tag="Status" value=""/>
+    <taggedValue xmi:id="__-S7Ed2TEea2P5c0wERQug" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="__-S7Et2TEea2P5c0wERQug" tag="Purpose" value=""/>
+    <taggedValue xmi:id="__-S7E92TEea2P5c0wERQug" tag="Description" value=""/>
+    <taggedValue xmi:id="__-S7FN2TEea2P5c0wERQug" tag="Author" value=""/>
+    <taggedValue xmi:id="__-S7Fd2TEea2P5c0wERQug" tag="otherParameter"/>
+    <taggedValue xmi:id="__-a24N2TEea2P5c0wERQug" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="__-a24d2TEea2P5c0wERQug" tag="DB ProductVersion" value="9.6.4"/>
+    <taggedValue xmi:id="__-a24t2TEea2P5c0wERQug" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="__9u6Yd2TEea2P5c0wERQug" key="CONN_PARA_KEY_USERNAME" value="etl"/>
+    <parameters xmi:id="_zemvQHEXEeeocqyKFoyvFA" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_vY5OgJkhEeeRA4GQoiDoOQ" name="dwh01" dataManager="_N40KEJkhEeeRA4GQoiDoOQ">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_vY5OgZkhEeeRA4GQoiDoOQ" name="agg01"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

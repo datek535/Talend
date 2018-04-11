@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_PxpUYB6VEee6MP5H0gPmJA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_PxpUYR6VEee6MP5H0gPmJA" comment="" name="psql_ods_Password" prompt="psql_ods_Password?" promptNeeded="false" type="id_Password" value="NBD0OkpfEJFgw7ZYfuRh+Q=="/>
+  <contextParameter xmi:id="_PxpUYh6VEee6MP5H0gPmJA" comment="" name="psql_ods_Port" prompt="psql_ods_Port?" promptNeeded="false" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_PxpUYx6VEee6MP5H0gPmJA" comment="" name="psql_ods_Login" prompt="psql_ods_Login?" promptNeeded="false" type="id_String" value="etl"/>
+  <contextParameter xmi:id="_PxpUZB6VEee6MP5H0gPmJA" comment="" name="psql_ods_Server" prompt="psql_ods_Server?" promptNeeded="false" type="id_String" value="10.12.61.20"/>
+  <contextParameter xmi:id="_PxpUZR6VEee6MP5H0gPmJA" comment="" name="psql_ods_Schema" prompt="psql_ods_Schema?" promptNeeded="false" type="id_String" value="ods02"/>
+  <contextParameter xmi:id="_PxpUZh6VEee6MP5H0gPmJA" comment="" name="psql_ods_Database" prompt="psql_ods_Database?" promptNeeded="false" type="id_String" value="dwh01"/>
+</talendfile:ContextType>

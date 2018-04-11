@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_IRCo0O61EeaJFe7wsIdFKA" confirmationNeeded="false" name="Dev">
+    <contextParameter xmi:id="_IRCo0e61EeaJFe7wsIdFKA" comment="" name="email_sender_from_email" prompt="email_sender_from_email?" promptNeeded="false" type="id_String" value="bi.analytics@dawandamail.com"/>
+    <contextParameter xmi:id="_IRCo0u61EeaJFe7wsIdFKA" comment="" name="email_sender_from_name" prompt="email_sender_from_name?" promptNeeded="false" type="id_String" value="BI Automated Reporting"/>
+    <contextParameter xmi:id="_IRCo0-61EeaJFe7wsIdFKA" comment="" name="email_sender_smtp_host" prompt="email_sender_smtp_host?" promptNeeded="false" type="id_String" value="smtp.gmail.com"/>
+    <contextParameter xmi:id="_IRCo1O61EeaJFe7wsIdFKA" comment="" name="email_sender_password" prompt="email_sender_password?" promptNeeded="false" type="id_Password" value="8uHV6tU1ds1QdRBZdH/wWg=="/>
+    <contextParameter xmi:id="_IRCo1e61EeaJFe7wsIdFKA" comment="" name="email_sender_smtp_port" prompt="email_sender_smtp_port?" promptNeeded="false" type="id_String" value="465"/>
+    <contextParameter xmi:id="_IRCo1u61EeaJFe7wsIdFKA" comment="" name="email_sender_username" prompt="email_sender_username?" promptNeeded="false" type="id_String" value="bi.analytics@dawandamail.com"/>
+    <contextParameter xmi:id="_boetQDrVEeeCJKEkfzprRQ" comment="" name="email_sender_to_email" prompt="email_sender_to_email?" promptNeeded="false" type="id_String" value="bi-alert@dawandamail.com"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_IRCo1-61EeaJFe7wsIdFKA" confirmationNeeded="false" name="Local">
+    <contextParameter xmi:id="_IRCo2O61EeaJFe7wsIdFKA" comment="" name="email_sender_from_email" prompt="email_sender_from_email?" promptNeeded="false" type="id_String" value="bi.analytics@dawandamail.com"/>
+    <contextParameter xmi:id="_IRCo2e61EeaJFe7wsIdFKA" comment="" name="email_sender_from_name" prompt="email_sender_from_name?" promptNeeded="false" type="id_String" value="BI Automated Reporting"/>
+    <contextParameter xmi:id="_IRCo2u61EeaJFe7wsIdFKA" comment="" name="email_sender_smtp_host" prompt="email_sender_smtp_host?" promptNeeded="false" type="id_String" value="smtp.gmail.com"/>
+    <contextParameter xmi:id="_IRCo2-61EeaJFe7wsIdFKA" comment="" name="email_sender_password" prompt="email_sender_password?" promptNeeded="false" type="id_Password" value="8uHV6tU1ds1QdRBZdH/wWg=="/>
+    <contextParameter xmi:id="_IRCo3O61EeaJFe7wsIdFKA" comment="" name="email_sender_smtp_port" prompt="email_sender_smtp_port?" promptNeeded="false" type="id_String" value="465"/>
+    <contextParameter xmi:id="_IRCo3e61EeaJFe7wsIdFKA" comment="" name="email_sender_username" prompt="email_sender_username?" promptNeeded="false" type="id_String" value="bi.analytics@dawandamail.com"/>
+    <contextParameter xmi:id="_boetQTrVEeeCJKEkfzprRQ" comment="" name="email_sender_to_email" prompt="email_sender_to_email?" promptNeeded="false" type="id_String" value="bi-alert@dawandamail.com"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_IRCo3u61EeaJFe7wsIdFKA" confirmationNeeded="false" name="Prod">
+    <contextParameter xmi:id="_IRCo3-61EeaJFe7wsIdFKA" comment="" name="email_sender_from_email" prompt="email_sender_from_email?" promptNeeded="false" type="id_String" value="bi.analytics@dawandamail.com"/>
+    <contextParameter xmi:id="_IRCo4O61EeaJFe7wsIdFKA" comment="" name="email_sender_from_name" prompt="email_sender_from_name?" promptNeeded="false" type="id_String" value="BI Automated Reporting"/>
+    <contextParameter xmi:id="_IRCo4e61EeaJFe7wsIdFKA" comment="" name="email_sender_smtp_host" prompt="email_sender_smtp_host?" promptNeeded="false" type="id_String" value="smtp.gmail.com"/>
+    <contextParameter xmi:id="_IRCo4u61EeaJFe7wsIdFKA" comment="" name="email_sender_password" prompt="email_sender_password?" promptNeeded="false" type="id_Password" value="8uHV6tU1ds1QdRBZdH/wWg=="/>
+    <contextParameter xmi:id="_IRCo4-61EeaJFe7wsIdFKA" comment="" name="email_sender_smtp_port" prompt="email_sender_smtp_port?" promptNeeded="false" type="id_String" value="465"/>
+    <contextParameter xmi:id="_IRCo5O61EeaJFe7wsIdFKA" comment="" name="email_sender_username" prompt="email_sender_username?" promptNeeded="false" type="id_String" value="bi.analytics@dawandamail.com"/>
+    <contextParameter xmi:id="_boetQjrVEeeCJKEkfzprRQ" comment="" name="email_sender_to_email" prompt="email_sender_to_email?" promptNeeded="false" type="id_String" value="bi-alert@dawandamail.com"/>
+  </talendfile:ContextType>
+</xmi:XMI>

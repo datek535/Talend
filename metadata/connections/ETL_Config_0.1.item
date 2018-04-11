@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_y66RQPUhEealJpoxmrXEuQ" name="ETL_Config" id="_iTBR8PUhEealJpoxmrXEuQ" label="ETL_Config" dataPackage="_y76W0PUhEealJpoxmrXEuQ" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://10.10.30.223:5432/dwh01" dbVersionString="V9_X" Port="5432" Username="etl" Password="NBD0OkpfEJFgw7ZYfuRh+Q==" ServerName="10.10.30.223" DatasourceName="" FileFieldName="" SID="dwh01" SqlSynthax="SQL Syntax" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="etl_config">
+    <taggedValue xmi:id="_y66RQfUhEealJpoxmrXEuQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_y7VIAPUhEealJpoxmrXEuQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_y7hVQPUhEealJpoxmrXEuQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_y7hVQfUhEealJpoxmrXEuQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_y7hVQvUhEealJpoxmrXEuQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_y7hVQ_UhEealJpoxmrXEuQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_y7hVRPUhEealJpoxmrXEuQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_y7hVRfUhEealJpoxmrXEuQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_y7rGQPUhEealJpoxmrXEuQ" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="_y7rGQfUhEealJpoxmrXEuQ" tag="DB ProductVersion" value="9.2.18"/>
+    <taggedValue xmi:id="_y7rtUPUhEealJpoxmrXEuQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_y66RQvUhEealJpoxmrXEuQ" key="CONN_PARA_KEY_USERNAME" value="etl"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_y76W0PUhEealJpoxmrXEuQ" name="dwh01" dataManager="_y66RQPUhEealJpoxmrXEuQ">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_y76W0fUhEealJpoxmrXEuQ" name="etl_config"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

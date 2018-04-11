@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_eKwvAB6VEee6MP5H0gPmJA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_eKwvAR6VEee6MP5H0gPmJA" comment="" name="mysql_prod_Password" prompt="mysql_prod_Password?" promptNeeded="false" type="id_Password" value="y6QKOqqBGXN6GMINySWbsFMP/9Rn6a7V"/>
+  <contextParameter xmi:id="_eKwvAh6VEee6MP5H0gPmJA" comment="" name="mysql_prod_Port" prompt="mysql_prod_Port?" promptNeeded="false" type="id_String" value="3306"/>
+  <contextParameter xmi:id="_eKwvAx6VEee6MP5H0gPmJA" comment="" name="mysql_prod_Login" prompt="mysql_prod_Login?" promptNeeded="false" type="id_String" value="bi-etl"/>
+  <contextParameter xmi:id="_eKwvBB6VEee6MP5H0gPmJA" comment="" name="mysql_prod_Server" prompt="mysql_prod_Server?" promptNeeded="false" type="id_String" value="10.11.21.68"/>
+  <contextParameter xmi:id="_eKwvBR6VEee6MP5H0gPmJA" comment="" name="mysql_prod_AdditionalParams" prompt="mysql_prod_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+  <contextParameter xmi:id="_eKwvBh6VEee6MP5H0gPmJA" comment="" name="mysql_prod_Database" prompt="mysql_prod_Database?" promptNeeded="false" type="id_String" value="dawanda_production"/>
+</talendfile:ContextType>

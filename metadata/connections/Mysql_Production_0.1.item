@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_WmkvgN2UEea2P5c0wERQug" name="Mysql_Production" id="_F3vasN2UEea2P5c0wERQug" label="Mysql_Production" dataPackage="_WvZ6IAqJEei4HI9WMfwXQQ" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://10.11.21.68:3306/dawanda_production?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="bi-etl" Password="y6QKOqqBGXN6GMINySWbsFMP/9Rn6a7V" ServerName="10.11.21.68" DatasourceName="" FileFieldName="" SID="dawanda_production" SqlSynthax="SQL Syntax" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_Wmkvgd2UEea2P5c0wERQug" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_Wm0AEN2UEea2P5c0wERQug" tag="package filter" value=""/>
+    <taggedValue xmi:id="_Wm0AEd2UEea2P5c0wERQug" tag="Status" value=""/>
+    <taggedValue xmi:id="_Wm0AEt2UEea2P5c0wERQug" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_Wm0AE92UEea2P5c0wERQug" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_Wm0AFN2UEea2P5c0wERQug" tag="Description" value=""/>
+    <taggedValue xmi:id="_Wm0AFd2UEea2P5c0wERQug" tag="Author" value=""/>
+    <taggedValue xmi:id="_Wm0AFt2UEea2P5c0wERQug" tag="otherParameter"/>
+    <taggedValue xmi:id="_Wm_mQN2UEea2P5c0wERQug" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_WnANUN2UEea2P5c0wERQug" tag="DB ProductVersion" value="5.6.37-82.2-log"/>
+    <taggedValue xmi:id="_WnANUd2UEea2P5c0wERQug" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_Wmkvgt2UEea2P5c0wERQug" key="CONN_PARA_KEY_USERNAME" value="bi-etl"/>
+    <parameters xmi:id="_Tt_XkAqJEei4HI9WMfwXQQ" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_WvZ6IAqJEei4HI9WMfwXQQ" name="dawanda_production" dataManager="_WmkvgN2UEea2P5c0wERQug"/>
+</xmi:XMI>

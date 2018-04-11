@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_NcDy0O7OEeaRIL_ec1Af-A" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_NcDy0e7OEeaRIL_ec1Af-A" comment="" name="internal_variable_yesterday" prompt="internal_variable_yesterday?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_NcDy0u7OEeaRIL_ec1Af-A" comment="" name="internal_variable_today" prompt="internal_variable_today?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_FvLMUO-iEeasgYIiIrWZsw" comment="" name="load_from_date" prompt="load_from_date?" promptNeeded="false" type="id_Date" value="2000-01-01 00:00:00"/>
+  <contextParameter xmi:id="_VCLTgAsFEee_SZG3NsG13Q" comment="" name="load_to_date" prompt="load_to_date?" promptNeeded="false" type="id_Date" value="2000-01-01 00:00:00"/>
+  <contextParameter xmi:id="_4g0gUBUfEeecseo3Lqn6Mw" comment="" name="load_timestamp" prompt="load_timestamp?" promptNeeded="false" type="id_Date" value="1900-01-01 00:00:00"/>
+  <contextParameter xmi:id="_4g0gURUfEeecseo3Lqn6Mw" comment="" name="load_dts" prompt="load_dts?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_11lhICQdEeeOncfZAIOE-Q" comment="name of the job" name="job_name" prompt="job_name?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_11lhISQdEeeOncfZAIOE-Q" comment="id of the job" name="job_id" prompt="job_id?" promptNeeded="false" type="id_Integer" value=""/>
+</talendfile:ContextType>

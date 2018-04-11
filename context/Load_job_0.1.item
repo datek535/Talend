@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_M8dTAPQvEeaBpt_Xv2sjow" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_M8dTAfQvEeaBpt_Xv2sjow" comment="" name="load_to_date" prompt="load_to_date?" promptNeeded="false" type="id_Date" value="2000-01-01 00:00:00"/>
+  <contextParameter xmi:id="_M8dTAvQvEeaBpt_Xv2sjow" comment="" name="load_from_date" prompt="load_from_date?" promptNeeded="false" type="id_Date" value="2000-01-01 00:00:00"/>
+  <contextParameter xmi:id="_M8dTA_QvEeaBpt_Xv2sjow" comment="" name="load_timestamp" prompt="load_timestamp?" promptNeeded="false" type="id_Date" value="1900-01-01 00:00:00"/>
+  <contextParameter xmi:id="_BlO8AA1dEeev_pg4q2t-jQ" comment="" name="load_dts" prompt="load_dts?" promptNeeded="false" type="id_Date" value=""/>
+</talendfile:ContextType>

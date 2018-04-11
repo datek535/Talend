@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_4mfwwHN1EeecjeARFyadXA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_4mfwwXN1EeecjeARFyadXA" comment="" name="psql_dev_Server" prompt="psql_dev_Server?" promptNeeded="false" type="id_String" value="10.12.61.20"/>
+  <contextParameter xmi:id="_4mfwwnN1EeecjeARFyadXA" comment="" name="psql_dev_Database" prompt="psql_dev_Database?" promptNeeded="false" type="id_String" value="dwh01"/>
+  <contextParameter xmi:id="_4mfww3N1EeecjeARFyadXA" comment="" name="psql_dev_Password" prompt="psql_dev_Password?" promptNeeded="false" type="id_Password" value="NBD0OkpfEJFgw7ZYfuRh+Q=="/>
+  <contextParameter xmi:id="_4mfwxHN1EeecjeARFyadXA" comment="" name="psql_dev_Port" prompt="psql_dev_Port?" promptNeeded="false" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_4mfwxXN1EeecjeARFyadXA" comment="" name="psql_dev_Login" prompt="psql_dev_Login?" promptNeeded="false" type="id_String" value="etl"/>
+  <contextParameter xmi:id="_4mfwxnN1EeecjeARFyadXA" comment="" name="psql_dev_Schema" prompt="psql_dev_Schema?" promptNeeded="false" type="id_String" value="dev01"/>
+</talendfile:ContextType>

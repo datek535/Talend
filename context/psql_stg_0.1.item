@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_CP-fIB6VEee6MP5H0gPmJA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_CP-fIR6VEee6MP5H0gPmJA" comment="" name="psql_stg_Password" prompt="psql_stg_Password?" promptNeeded="false" type="id_Password" value="NBD0OkpfEJFgw7ZYfuRh+Q=="/>
+  <contextParameter xmi:id="_CP-fIh6VEee6MP5H0gPmJA" comment="" name="psql_stg_Port" prompt="psql_stg_Port?" promptNeeded="false" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_CP-fIx6VEee6MP5H0gPmJA" comment="" name="psql_stg_Login" prompt="psql_stg_Login?" promptNeeded="false" type="id_String" value="etl"/>
+  <contextParameter xmi:id="_CP-fJB6VEee6MP5H0gPmJA" comment="" name="psql_stg_Server" prompt="psql_stg_Server?" promptNeeded="false" type="id_String" value="10.12.61.20"/>
+  <contextParameter xmi:id="_CP-fJR6VEee6MP5H0gPmJA" comment="" name="psql_stg_Schema" prompt="psql_stg_Schema?" promptNeeded="false" type="id_String" value="stg01"/>
+  <contextParameter xmi:id="_CP-fJh6VEee6MP5H0gPmJA" comment="" name="psql_stg_Database" prompt="psql_stg_Database?" promptNeeded="false" type="id_String" value="dwh01"/>
+</talendfile:ContextType>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_-_vtMDbtEeepAsIqo7doHQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_-_vtMTbtEeepAsIqo7doHQ" comment="" name="psql_agg_Port" prompt="psql_agg_Port?" promptNeeded="false" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_-_vtMjbtEeepAsIqo7doHQ" comment="" name="psql_agg_Database" prompt="psql_agg_Database?" promptNeeded="false" type="id_String" value="dwh01"/>
+  <contextParameter xmi:id="_-_vtMzbtEeepAsIqo7doHQ" comment="" name="psql_agg_Server" prompt="psql_agg_Server?" promptNeeded="false" type="id_String" value="10.12.61.20"/>
+  <contextParameter xmi:id="_-_vtNDbtEeepAsIqo7doHQ" comment="" name="psql_agg_Schema" prompt="psql_agg_Schema?" promptNeeded="false" type="id_String" value="agg01"/>
+  <contextParameter xmi:id="_-_vtNTbtEeepAsIqo7doHQ" comment="" name="psql_agg_Password" prompt="psql_agg_Password?" promptNeeded="false" type="id_Password" value="NBD0OkpfEJFgw7ZYfuRh+Q=="/>
+  <contextParameter xmi:id="_-_vtNjbtEeepAsIqo7doHQ" comment="" name="psql_agg_Login" prompt="psql_agg_Login?" promptNeeded="false" type="id_String" value="etl"/>
+</talendfile:ContextType>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_5DZvMHN1EeecjeARFyadXA" name="psql_dev" id="_yCTD8HN1EeecjeARFyadXA" label="psql_dev" dataPackage="_K-k7UHN2EeecjeARFyadXA" ContextMode="true" ContextId="_4mP5IHN1EeecjeARFyadXA" contextName="Default" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://10.12.61.20:5432/dwh01" dbVersionString="V9_X" Port="context.psql_dev_Port" Username="context.psql_dev_Login" Password="context.psql_dev_Password" ServerName="context.psql_dev_Server" DatasourceName="" FileFieldName="" SID="context.psql_dev_Database" SqlSynthax="SQL Syntax" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="context.psql_dev_Schema">
+    <taggedValue xmi:id="_5DZvMXN1EeecjeARFyadXA" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_5DnKkHN1EeecjeARFyadXA" tag="package filter" value=""/>
+    <taggedValue xmi:id="_5DzX0HN1EeecjeARFyadXA" tag="Status" value=""/>
+    <taggedValue xmi:id="_5DzX0XN1EeecjeARFyadXA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_5DzX0nN1EeecjeARFyadXA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_5DzX03N1EeecjeARFyadXA" tag="Description" value=""/>
+    <taggedValue xmi:id="_5DzX1HN1EeecjeARFyadXA" tag="Author" value=""/>
+    <taggedValue xmi:id="_5DzX1XN1EeecjeARFyadXA" tag="otherParameter"/>
+    <taggedValue xmi:id="_K-QLMHN2EeecjeARFyadXA" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="_K-QLMXN2EeecjeARFyadXA" tag="DB ProductVersion" value="9.6.2"/>
+    <taggedValue xmi:id="_K-QLMnN2EeecjeARFyadXA" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_5DZvMnN1EeecjeARFyadXA" key="CONN_PARA_KEY_USERNAME" value="context.psql_dev_Login"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_K-k7UHN2EeecjeARFyadXA" name="dwh01" dataManager="_5DZvMHN1EeecjeARFyadXA">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_K-k7UXN2EeecjeARFyadXA" name="dev01"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
